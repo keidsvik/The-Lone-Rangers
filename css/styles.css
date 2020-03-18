@@ -1,27 +1,34 @@
 .sidebar {
   width: 30%;
   float: right;
+  
 }
 
 .img {
   float: left;
   width: 33.33%;
-  padding: 5px;
   text-align: center;
+  padding: 50px;
 }
 
 .text {
   font-family: helvetica;
-}
+  }
 
 h1 {
   text-align: center;
 }
 
-p {
-  font-family: helvetica;
-}
-
 body {
   background-color: blueviolet;
+}
+
+.margins {
+  border: 5px solid yellowgreen;
+  padding: 200px;
+}
+
+.shows {
+  float: right;
+  clear: right;
 }
