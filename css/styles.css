@@ -1,0 +1,27 @@
+.sidebar {
+  width: 30%;
+  float: right;
+}
+
+.img {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  text-align: center;
+}
+
+.text {
+  font-family: helvetica;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  font-family: helvetica;
+}
+
+body {
+  background-color: blueviolet;
+}
